@@ -9,7 +9,6 @@ https://powerful-chamber-99113.herokuapp.com/
 ## Screen Shots
 
 ![Screen shot](public/assets/img/index.png)
-Index Page
 
 
 ## Technologies used
